@@ -1,8 +1,0 @@
-source 'https://github.com/CocoaPods/Specs.git'
-
-
-target 'JFUrlUtil', :exclusive => true do
-  pod "JFUrlUtil", :path => "../"
-
-  
-end
