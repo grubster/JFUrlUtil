@@ -2,10 +2,10 @@ Pod::Spec.new do |s|
   s.name             = "JFUrlUtil"
   s.version          = "0.1.0"
   s.summary          = "A serie of helper functions for URL manipulation"
-  s.homepage         = "https://github.com/grubster/JFUrlUtil"
+  s.homepage         = "https://github.com/pedronsouza/JFUrlUtil"
   s.license          = 'MIT'
   s.author           = { "Jason Fuerstenberg" => "jay@jayfuerstenberg.com" }
-  s.source           = { :git => "https://github.com/grubster/JFUrlUtil.git", :tag => s.version.to_s }
+  s.source           = { :git => "git@github.com:pedronsouza/JFUrlUtil.git", :tag => s.version.to_s }
 
   s.platform     = :ios
   s.requires_arc = true
